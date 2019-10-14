@@ -24,3 +24,4 @@ Used: Android, Java, Kotlin, Fragments, Room, ViewModel, LiveData, Maps, FCM, QR
 
 https://drive.google.com/open?id=1XWdy33qf-tEqbrrFWQZ5-sLhPI3kQIjk
 
+
