@@ -1,6 +1,7 @@
 1. Mobile Banking 
 
 Created: 2014-2015
+
 Status: Closed
 About: full Mobile Banking application, works with emulated Bank System works with Oracle, WebSphere
 Used: Android, Java, Fragments, SqlLite, Maps, GCM, Camera augmented reality, NFC, QR code scan, Bluetooth, Internet Rest, Json 
