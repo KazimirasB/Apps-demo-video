@@ -34,4 +34,14 @@ Used: Android, Java, Kotlin, Fragments, Room, ViewModel, LiveData, Maps, FCM, QR
 
 https://drive.google.com/open?id=1XWdy33qf-tEqbrrFWQZ5-sLhPI3kQIjk
 
+2. Payments
+
+Created: 2017
+
+Status: PoC
+
+About: users can pay bills by phone (analog of payments terminals)
+Used: Android, Java, Fragments, Internet KSOAP, PayPal integration, dinamic UI loaded from server
+
+https://drive.google.com/open?id=105QgIlCTW-I11KCYfg2Uo5eIC29zRfGS
 
