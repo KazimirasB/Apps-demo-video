@@ -10,6 +10,8 @@ Used: Android, Java, Fragments, SqlLite, Maps, GCM, Camera augmented reality, NF
 
 https://drive.google.com/open?id=1sVe9aAnA8kDBv0cPeu6FcSoCRCgOtnJk
 
+
+
 2. Pay Desk 
 
 Created: 2015
@@ -21,6 +23,8 @@ About: Pay desk, menu, reporting, integration with mobile credit card reader
 Used: Android, Java, Fragments, SqlLite, QR code scan, Bluetooth
 
 https://drive.google.com/open?id=1II6Btlgd8fJpP_skFczQ60PZ1fyn2p9Z
+
+
 
 3. Service Desk
 
@@ -34,7 +38,9 @@ Used: Android, Java, Kotlin, Fragments, Room, ViewModel, LiveData, Maps, FCM, QR
 
 https://drive.google.com/open?id=1XWdy33qf-tEqbrrFWQZ5-sLhPI3kQIjk
 
-2. Payments
+
+
+4. Payments
 
 Created: 2017
 
