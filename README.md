@@ -51,3 +51,15 @@ Used: Android, Java, Fragments, Internet KSOAP, PayPal integration, dinamic UI l
 
 https://drive.google.com/open?id=105QgIlCTW-I11KCYfg2Uo5eIC29zRfGS
 
+5. RaskAkcija
+
+Created: 2014
+
+Status: Google Play
+
+About: app show discounts from regular Web page
+Used: Android, Java, WebView, JavScript
+
+https://play.google.com/store/apps/details?id=raskakcija.lt&hl=en
+
+
