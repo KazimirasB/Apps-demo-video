@@ -4,7 +4,7 @@ Created: 2018-2019
 
 Status: Production
 
-About: Service desk fo create, distribution, control, report of ATM, payments terminal and etc. service requests
+About: Service Desk to create, distribute, control, report of ATM, payments terminal and etc. service requests
 
 Used: Android, Java, Kotlin, Fragments, Room, ViewModel, LiveData, Maps, FCM, QR code scan, Internet KSOAP
 
@@ -19,7 +19,7 @@ Created: 2019
 
 Status: Demo
 
-About: Take photo and send to server for face regonition
+About: take photo and send to server for face recognition
 
 Used: Android, Java, Kotlin, Fragments, Room, ViewModel, LiveData, REST, Retrofit, integration with server Luna 2 API
 
@@ -35,7 +35,7 @@ Status: Closed
 
 About: full Mobile Banking application, works with emulated Bank System on Oracle and WebSphere
 
-Used: Android, Java, Fragments, SqlLite, Maps, GCM, Camera augmented reality, NFC, QR code scan, Bluetooth, Internet Rest, Json 
+Used: Android, Java, Fragments, SqlLite, Maps, GCM, Camera augmented reality, NFC, QR code scan, Bluetooth, Internet Rest, Json
 
 https://drive.google.com/open?id=1sVe9aAnA8kDBv0cPeu6FcSoCRCgOtnJk
 
@@ -62,7 +62,7 @@ Created: 2017
 
 Status: PoC
 
-About: users can pay bills by phone (analog of payments terminals)
+About: users can pay bills by phone (analogue to payment terminals)
 
 Used: Android, Java, Fragments, Internet KSOAP, PayPal integration, dinamic UI loaded from server
 
@@ -76,7 +76,7 @@ Created: 2014
 
 Status: Google Play
 
-About: app show discounts from regular Web page
+About: app show discounts from regular Web pages
 
 Used: Android, Java, WebView, JavScript
 
