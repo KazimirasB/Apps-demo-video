@@ -45,7 +45,7 @@ https://drive.google.com/open?id=1sVe9aAnA8kDBv0cPeu6FcSoCRCgOtnJk
 
 Created: 2015
 
-Status: PoC
+Status: Demo
 
 About: Pay desk, menu, reporting, integration with mobile credit card reader
 
